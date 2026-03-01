@@ -1,2 +1,1 @@
-# calculadora-imc
-Uma simples calculadora de IMC
+Essa é uma calculadora simples desenvolvida em Python.
